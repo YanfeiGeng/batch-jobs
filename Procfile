@@ -1,2 +1,2 @@
-clock: python clock.py
+clock: python batchjobs/clock.py
 
